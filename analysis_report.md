@@ -1,5 +1,5 @@
 # Protocol Analysis Report Condensed
-Wireshark Packet Capture Analysis Task 5
+Wireshark Packet Capture Analysis
 
 ## Executive Summary
 Analysis of 11,836 packets identified four protocols (DNS, TCP, TLS, ARP) operating across OSI layers. All protocols functioning correctly with no anomalies. Network operating with modern security practices.
@@ -297,8 +297,7 @@ Other category includes: Ethernet frames, Ipv6 packets, QUIC, ICMPv6, broadcast/
 ## Conclusion
 Comprehensive analysis of 11,836 packets demonstrates proper operation across all four analyzed protocols (DNS, TCP, TLS, ARP) across multiple OSI layers. DNS reliably resolves domains. TCP establishes reliable connections with proper sequence/acknowledgment. TLS encrypts all sensitive data with modern cipher suites. ARP reliably maps IP to MAC addresses. No anomalies, errors, or security issues detected. Network operating with modern security practices implemented throughout.
 
-**Analysis Completed:** June 7, 2026
 **Total Capture Time:** 2-3 minutes
 **Packets Analyzed:** 11,836
 **Scope:** 4 major protocols
-**Capture File:** packets.pcapng
+**Capture File:** packets.pcap
